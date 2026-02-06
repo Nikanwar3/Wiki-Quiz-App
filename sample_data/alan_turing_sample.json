@@ -1,0 +1,135 @@
+{
+  "id": 1,
+  "url": "https://en.wikipedia.org/wiki/Alan_Turing",
+  "title": "Alan Turing",
+  "summary": "Alan Mathison Turing OBE FRS was an English mathematician, computer scientist, logician, cryptanalyst, philosopher and theoretical biologist. Turing was highly influential in the development of theoretical computer science, providing a formalisation of the concepts of algorithm and computation with the Turing machine...",
+  "key_entities": {
+    "people": [
+      "Alan Turing",
+      "Alonzo Church",
+      "John von Neumann",
+      "Christopher Morcom",
+      "Joan Clarke"
+    ],
+    "organizations": [
+      "University of Cambridge",
+      "Princeton University",
+      "Bletchley Park",
+      "National Physical Laboratory",
+      "University of Manchester"
+    ],
+    "locations": [
+      "United Kingdom",
+      "London",
+      "Manchester",
+      "Bletchley"
+    ]
+  },
+  "sections": [
+    "Early life and education",
+    "Career and research",
+    "Cryptanalysis",
+    "Pattern formation and mathematical biology",
+    "Conviction for indecency",
+    "Death",
+    "Recognition and honours",
+    "Legacy"
+  ],
+  "quiz": [
+    {
+      "question": "Where did Alan Turing study as an undergraduate?",
+      "options": [
+        "Harvard University",
+        "King's College, Cambridge",
+        "Oxford University",
+        "MIT"
+      ],
+      "answer": "King's College, Cambridge",
+      "difficulty": "easy",
+      "explanation": "The article mentions that Turing studied at King's College, Cambridge, where he was awarded first-class honours in mathematics."
+    },
+    {
+      "question": "What was Alan Turing's main contribution during World War II?",
+      "options": [
+        "Developing radar technology",
+        "Breaking the German Enigma code",
+        "Creating the atomic bomb",
+        "Designing fighter aircraft"
+      ],
+      "answer": "Breaking the German Enigma code",
+      "difficulty": "medium",
+      "explanation": "Turing played a crucial role at Bletchley Park in breaking German ciphers, particularly the Enigma code, which was vital to Allied victory."
+    },
+    {
+      "question": "What theoretical concept did Turing introduce that became fundamental to computer science?",
+      "options": [
+        "Binary code",
+        "The Turing machine",
+        "Object-oriented programming",
+        "Neural networks"
+      ],
+      "answer": "The Turing machine",
+      "difficulty": "medium",
+      "explanation": "The Turing machine, introduced in his 1936 paper, became a fundamental concept in theoretical computer science and the theory of computation."
+    },
+    {
+      "question": "What test did Turing propose to evaluate a machine's ability to exhibit intelligent behavior?",
+      "options": [
+        "The Intelligence Quotient Test",
+        "The Turing Test",
+        "The Logical Reasoning Test",
+        "The Machine Learning Test"
+      ],
+      "answer": "The Turing Test",
+      "difficulty": "easy",
+      "explanation": "The Turing Test, proposed in his 1950 paper 'Computing Machinery and Intelligence,' is a test of a machine's ability to exhibit intelligent behavior equivalent to, or indistinguishable from, that of a human."
+    },
+    {
+      "question": "In what year did Alan Turing die?",
+      "options": [
+        "1950",
+        "1952",
+        "1954",
+        "1956"
+      ],
+      "answer": "1954",
+      "difficulty": "medium",
+      "explanation": "Alan Turing died on June 7, 1954, at the age of 41, in circumstances that were ruled as suicide by cyanide poisoning."
+    },
+    {
+      "question": "What honor was posthumously granted to Turing in 2013?",
+      "options": [
+        "Nobel Prize in Mathematics",
+        "Royal pardon",
+        "Knighthood",
+        "Presidential Medal of Freedom"
+      ],
+      "answer": "Royal pardon",
+      "difficulty": "hard",
+      "explanation": "In 2013, Queen Elizabeth II granted Turing a posthumous royal pardon for his 1952 conviction of 'gross indecency' under laws that criminalized homosexuality."
+    },
+    {
+      "question": "Which university did Turing work at when he designed the Automatic Computing Engine (ACE)?",
+      "options": [
+        "Cambridge University",
+        "National Physical Laboratory",
+        "University of Manchester",
+        "Oxford University"
+      ],
+      "answer": "National Physical Laboratory",
+      "difficulty": "hard",
+      "explanation": "After WWII, Turing worked at the National Physical Laboratory (NPL) where he designed the Automatic Computing Engine (ACE), one of the first designs for a stored-program computer."
+    }
+  ],
+  "related_topics": [
+    "Enigma machine",
+    "Cryptography",
+    "Computer science history",
+    "Bletchley Park",
+    "Turing Test",
+    "Theoretical computer science",
+    "LGBTQ+ history in science",
+    "History of artificial intelligence"
+  ],
+  "created_at": "2024-02-06T10:30:00.000000"
+}

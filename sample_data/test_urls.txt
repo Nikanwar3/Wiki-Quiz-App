@@ -1,0 +1,31 @@
+# Sample Wikipedia URLs for Testing
+
+## Test Cases
+
+1. **Computer Science Pioneer**
+   - URL: https://en.wikipedia.org/wiki/Alan_Turing
+   - Expected: Questions about early life, WWII contributions, Enigma code, Turing machine
+
+2. **Historical Figure**
+   - URL: https://en.wikipedia.org/wiki/Marie_Curie
+   - Expected: Questions about Nobel Prizes, radioactivity research, personal life
+
+3. **Scientific Concept**
+   - URL: https://en.wikipedia.org/wiki/Quantum_mechanics
+   - Expected: Questions about principles, history, key scientists
+
+4. **Geographic Location**
+   - URL: https://en.wikipedia.org/wiki/Paris
+   - Expected: Questions about history, landmarks, culture
+
+5. **Technology**
+   - URL: https://en.wikipedia.org/wiki/Artificial_intelligence
+   - Expected: Questions about AI history, applications, ethics
+
+6. **Historical Event**
+   - URL: https://en.wikipedia.org/wiki/World_War_II
+   - Expected: Questions about timeline, major battles, outcomes
+
+7. **Shorter Article (for quick testing)**
+   - URL: https://en.wikipedia.org/wiki/Python_(programming_language)
+   - Expected: Questions about creation, features, uses
